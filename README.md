@@ -57,18 +57,18 @@
 
 ---
 
+
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d3vrf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="d3vrf's GitHub stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d3vrf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3vrf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3vrf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 <div align="center">
   <sub>Designed with ❤️ by Arif Ahamed</sub>
 </div>
