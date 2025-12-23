@@ -41,8 +41,29 @@
 ### 🚀 Technical Arsenal
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,c,mysql,linux,git,html,css&perline=8" />
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
   </a>
 </div>
 
@@ -55,20 +76,8 @@
 | A CLI-based application with persistent **MySQL** storage for booking and billing management. | An AI tool utilizing the **Gemini API** to generate structured homework assistance. | A responsive website showcasing my academic journey and technical projects. |
 | `Python` `MySQL` `CLI` | `Python` `Gemini API` `Automation` | `HTML` `CSS` `Responsive` |
 
----
-
-
-### 📊 GitHub Analytics
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=d3vrf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
-
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d3vrf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
 <div align="center">
   <sub>Designed with ❤️ by Arif Ahamed</sub>
 </div>
