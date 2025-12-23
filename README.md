@@ -5,12 +5,12 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Hi+I+am+Arif+Ahamed" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Hi+%2C+I'm+Arif+Ahamed" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<h3>💻 Cybersec Enthusiast & Backend Developer</h3>
+<h3>👨‍💻 2nd Year B.Tech Student @ Techno India University</h3>
 <p>📍 Kolkata, India</p>
 
 <p>
@@ -30,9 +30,8 @@
 <br/>
 
 <p align="center" style="max-width: 600px;">
-  <b>Building secure systems & breaking code (ethically).</b> 🛡️ <br/>
-  Techno India University Student turning coffee into clean <b>Python</b> & <b>C++</b>. <br/>
-  <i>Focus: Cybersecurity, Automation, and robust Backend Architecture.</i>
+  I am a passionate developer focused on <b>Cybersecurity</b> and <b>Backend Systems</b>. <br/>
+  Certified in <b>Google Cybersecurity</b>, I love building tools that solve real-world problems <br/> using Python, C++, and SQL.
 </p>
 
 </div>
@@ -74,4 +73,11 @@
 
 | 🏨 Hotel Management System | 🤖 AI Homework Helper | 🌐 Personal Portfolio |
 | :---: | :---: | :---: |
-| **CLI Powerhouse.** Full-scale management system backed by robust **MySQL** architecture. | **Smart Automation.** A
+| A CLI-based application with persistent **MySQL** storage for booking and billing management. | An AI tool utilizing the **Gemini API** to generate structured homework assistance. | A responsive website showcasing my academic journey and technical projects. |
+| `Python` `MySQL` `CLI` | `Python` `Gemini API` `Automation` | `HTML` `CSS` `Responsive` |
+
+<br/>
+
+<div align="center">
+  <sub>Designed with ❤️ by Arif Ahamed</sub>
+</div>
