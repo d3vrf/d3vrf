@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Arif+Ahamed;Computer+Science+Student;Cybersecurity+Enthusiast;Python+%26+C%2B%2B+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=30&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=500&lines=Hi+I+am+Arif+Ahamed" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -74,10 +74,4 @@
 | 🏨 Hotel Management System | 🤖 AI Homework Helper | 🌐 Personal Portfolio |
 | :---: | :---: | :---: |
 | A CLI-based application with persistent **MySQL** storage for booking and billing management. | An AI tool utilizing the **Gemini API** to generate structured homework assistance. | A responsive website showcasing my academic journey and technical projects. |
-| `Python` `MySQL` `CLI` | `Python` `Gemini API` `Automation` | `HTML` `CSS` `Responsive` |
-
-<br/>
-
-<div align="center">
-  <sub>Designed with ❤️ by Arif Ahamed</sub>
-</div>
+| `Python` `MySQL` `CLI` | `Python` `Gemini API` `Automation` | `HTML` `CSS` `Responsive
