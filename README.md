@@ -31,7 +31,7 @@
 
 <p align="center" style="max-width: 600px;">
   I am a passionate developer focused on <b>Cybersecurity</b> and <b>Backend Systems</b>. <br/>
-  Certified in <b>Google Cybersecurity</b>, I love building tools that solve real-world problems <br/> using Python, C++, and SQL.
+  Certified in <b>Google Cybersecurity</b>, I love building tools that solve real-world problems <br/> using <b>Python</b> and <b>SQL</b>.
 </p>
 
 </div>
@@ -43,9 +43,6 @@
 <div align="center">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=python" />
-  </a>
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" />
   </a>
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img src="https://skillicons.dev/icons?i=c" />
