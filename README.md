@@ -31,7 +31,7 @@
 
 <p align="center" style="max-width: 600px;">
   I am a passionate developer focused on <b>Cybersecurity</b> and <b>Backend Systems</b>. <br/>
-  Certified in <b>Google Cybersecurity</b>, I love building tools that solve real-world problems <br/> using <b>Python</b>.
+  Certified in <b>Google Cybersecurity</b>, I love building tools that solve real-world problems <br/> using <b>Python</b> and <b>C</b>.
 </p>
 
 </div>
